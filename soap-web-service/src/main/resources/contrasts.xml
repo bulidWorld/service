@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ticket xmlns="http://sketeton/spring-web-service/support">
+    <id>12</id>
+    <customerName>Join</customerName>
+    <subject>Foo</subject>
+    <body>Bar</body>
+    <attachment>
+        <name>space.png</name>
+        <mineContent>image/gif</mineContent>
+        <contents>A98311E11222222222222222222222444444</contents>
+    </attachment>
+
+</ticket>
+
+
+
