@@ -1,0 +1,23 @@
+[
+  {
+    "maxSize":2000,
+    "bakInterval":5000,
+    "fullSize":10000,
+    "tableNames":["tbl_t1","tbl_t2"],
+
+    "criticalRation":"0.7",
+    "criticalCount":5000,
+    "oneMaxSize":1000
+  },
+  {
+    "maxSize":20001,
+    "bakInterval":50001,
+    "fullSize":100001,
+    "tableNames":["tbl_t3","tbl_t4"],
+
+    "criticalRation":"0.71",
+    "criticalCount":50001,
+    "oneMaxSize":10001
+  }
+
+]
